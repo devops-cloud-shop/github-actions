@@ -1,4 +1,4 @@
-name: parellel
+name: parallel
 on: [push]
 jobs:
   job-1:
