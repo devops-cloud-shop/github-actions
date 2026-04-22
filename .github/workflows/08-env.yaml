@@ -36,7 +36,7 @@ jobs:
       - name: Step with custom environment variables
         env:
           APP_NAME: "step-level-app-name"
-          STEP_VAR2: "world"
+          STEP_VAR2: "world war"
         run: |
           echo "APP_NAME: $APP_NAME"
           echo "STEP_VAR2: $STEP_VAR2"
